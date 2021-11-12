@@ -1,0 +1,12 @@
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.csprojAssemblyReference.cache
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.BoringResult.resources
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.Properties.Resources.resources
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.csproj.GenerateResource.cache
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.csproj.CoreCompileInputs.cache
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\bin\Debug\XmlOutputApp.exe.config
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\bin\Debug\XmlOutputApp.exe
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\bin\Debug\XmlOutputApp.pdb
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.csproj.ResolveComReference.cache
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.exe
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\XmlOutputApp.pdb
+C:\Users\a-nagata\Desktop\XmlOutputApp\XmlOutputApp\obj\Debug\WorldGyomu.CommonControl.WaitSplash.resources
